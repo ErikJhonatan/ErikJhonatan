@@ -20,6 +20,12 @@ Producto en desarrollo para reunir ventas, inventario y gestión del negocio. Su
 
 ## Código público destacado
 
+### [Sistema veterinario · Gestión y operaciones](https://github.com/ErikJhonatan/sistema_veterinaria_final)
+
+Aplicación con módulos de clientes, mascotas e historial clínico, junto con productos, servicios, ventas, inventario, caja y recursos humanos. El código permite revisar un proyecto con múltiples flujos de negocio y una estructura de controladores, modelos y vistas.
+
+**Tecnologías:** PHP, Laravel 11, Blade y Vite.
+
 ### [Greenvic · Riego con IA e IoT](https://github.com/ErikJhonatan/project-iot)
 
 Servidor e interfaz para consultar humedad y controlar una bomba de riego mediante comandos en lenguaje natural. Integra Gemini para interpretar instrucciones y Johnny-Five para comunicarse con Arduino UNO.
@@ -29,6 +35,12 @@ Servidor e interfaz para consultar humedad y controlar una bomba de riego median
 - Separación entre interpretación del comando y ejecución sobre el hardware.
 
 **Tecnologías:** JavaScript, Node.js, Express, Gemini, Johnny-Five y Arduino.
+
+### [Qallariy · Distribución de utilidades](https://github.com/ErikJhonatan/Qallariy-App)
+
+Aplicación académica que calcula la participación de socios según sus aportes y distribuye la utilidad de una inversión. Separa el cálculo de la interfaz y guarda resultados en el navegador con `localStorage`.
+
+**Tecnologías:** JavaScript, HTML y CSS.
 
 ### [MiniMarket POS · Gestión comercial](https://github.com/ErikJhonatan/sys_minimarket_pos)
 
