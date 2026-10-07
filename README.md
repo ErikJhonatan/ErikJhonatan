@@ -1,8 +1,6 @@
-![Erik Jhonatan — Full Stack Developer](assets/profile-banner.svg)
+# Hola, soy Erik 👋
 
-### Hola, soy Erik 👋
-
-Estudiante de **Ingeniería de Sistemas** y desarrollador **full stack**. Construyo productos para negocios y agencias de viajes, y exploro cómo conectar **web, IA y hardware** con problemas concretos.
+Soy **ingeniero de sistemas**, egresado en **2025**, tengo **22 años** y soy desarrollador **full stack**. Construyo productos para negocios y agencias de viajes, y exploro cómo conectar **web, IA y hardware** con problemas concretos.
 
 [![Turistivo](https://img.shields.io/badge/Visita-Turistivo-167D66?style=for-the-badge)](https://turistivo.com)
 [![Walpia](https://img.shields.io/badge/Explora-Walpia-335C9B?style=for-the-badge)](https://walpia.com)
