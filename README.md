@@ -1,64 +1,80 @@
-# Hola, soy Erik Jhonatan
+![Erik Jhonatan — Full Stack Developer](assets/profile-banner.svg)
 
-Estudiante de Ingeniería de Sistemas y desarrollador full stack. Construyo productos para negocios y agencias de viajes, y exploro cómo conectar software, IA y hardware con problemas concretos.
+### Hola, soy Erik 👋
 
-Trabajo con JavaScript, React, Node.js, Express, PHP y Laravel. Me interesa llevar una idea desde la interfaz hasta la API y la persistencia, y explicar con claridad qué está implementado y qué queda pendiente.
+Estudiante de **Ingeniería de Sistemas** y desarrollador **full stack**. Construyo productos para negocios y agencias de viajes, y exploro cómo conectar **web, IA y hardware** con problemas concretos.
 
-## Productos que estoy construyendo
+[![Turistivo](https://img.shields.io/badge/Visita-Turistivo-167D66?style=for-the-badge)](https://turistivo.com)
+[![Walpia](https://img.shields.io/badge/Explora-Walpia-335C9B?style=for-the-badge)](https://walpia.com)
+[![Código](https://img.shields.io/badge/C%C3%B3digo-Proyectos_p%C3%BAblicos-263449?style=for-the-badge&logo=github&logoColor=white)](#-código-para-explorar)
 
-### [Turistivo · Itinerarios digitales para agencias de viajes](https://turistivo.com)
+---
 
-Plataforma para presentar viajes con la marca de una agencia y organizar itinerarios, pasajeros, proveedores y reservas. La propuesta reúne la presentación comercial y la operación del viaje en un mismo lugar, con itinerarios compartibles por enlace.
+## 🚀 Productos que estoy construyendo
 
-**Ver el producto:** [turistivo.com](https://turistivo.com)
+| 🧭 **[Turistivo](https://turistivo.com)** | 🛍️ **[Walpia](https://walpia.com)** |
+| :--- | :--- |
+| **Itinerarios digitales para agencias de viajes.** Presentación de viajes con la marca de la agencia y organización de itinerarios, pasajeros, proveedores y reservas. | **POS y gestión para negocios del Perú.** Un producto en desarrollo para reunir ventas, inventario y gestión del negocio. |
+| Itinerarios compartibles por enlace y una propuesta que conecta venta y operación. | Sitio público con demostraciones de voz e IA con revisión humana. Acceso actual a un entorno de prueba. |
+| **[Conoce Turistivo →](https://turistivo.com)** | **[Explora Walpia →](https://walpia.com)** |
 
-### [Walpia · POS y gestión para negocios del Perú](https://walpia.com)
+## 🧰 Tecnologías con las que trabajo
 
-Producto en desarrollo para reunir ventas, inventario y gestión del negocio. Su sitio público presenta la propuesta y demostraciones de asistencia por voz e IA con revisión humana. El acceso actual corresponde a un entorno de prueba.
+**Interfaces**
 
-**Ver la propuesta:** [walpia.com](https://walpia.com)
+![React](https://img.shields.io/badge/React-172331?style=flat-square&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-172331?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-172331?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS](https://img.shields.io/badge/CSS-172331?style=flat-square&logo=css&logoColor=8CB4FF)
+![Vite](https://img.shields.io/badge/Vite-172331?style=flat-square&logo=vite&logoColor=B6A3FF)
 
-## Código público destacado
+**Backend y datos**
 
-### [Sistema veterinario · Gestión y operaciones](https://github.com/ErikJhonatan/sistema_veterinaria_final)
+![Node.js](https://img.shields.io/badge/Node.js-172331?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
+![Express](https://img.shields.io/badge/Express-172331?style=flat-square&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-172331?style=flat-square&logo=php&logoColor=A5ACDC)
+![Laravel](https://img.shields.io/badge/Laravel-172331?style=flat-square&logo=laravel&logoColor=FF6B63)
+![MongoDB](https://img.shields.io/badge/MongoDB-172331?style=flat-square&logo=mongodb&logoColor=47A248)
 
-Aplicación con módulos de clientes, mascotas e historial clínico, junto con productos, servicios, ventas, inventario, caja y recursos humanos. El código permite revisar un proyecto con múltiples flujos de negocio y una estructura de controladores, modelos y vistas.
+**IA y hardware**
 
-**Tecnologías:** PHP, Laravel 11, Blade y Vite.
+![Gemini](https://img.shields.io/badge/Gemini-172331?style=flat-square&logo=googlegemini&logoColor=8EACFF)
+![Arduino](https://img.shields.io/badge/Arduino-172331?style=flat-square&logo=arduino&logoColor=00B5B8)
 
-### [Greenvic · Riego con IA e IoT](https://github.com/ErikJhonatan/project-iot)
+## 💻 Código para explorar
 
-Servidor e interfaz para consultar humedad y controlar una bomba de riego mediante comandos en lenguaje natural. Integra Gemini para interpretar instrucciones y Johnny-Five para comunicarse con Arduino UNO.
+### 🐾 [Sistema veterinario](https://github.com/ErikJhonatan/sistema_veterinaria_final)
 
-- API para consultar el estado y enviar comandos de riego.
-- Modo de hardware simulado para trabajar sin una placa conectada.
-- Separación entre interpretación del comando y ejecución sobre el hardware.
+Gestión de **clientes, mascotas e historial clínico**, junto con productos, servicios, ventas, inventario, caja y recursos humanos. Un proyecto con múltiples flujos de negocio y una estructura de controladores, modelos y vistas.
 
-**Tecnologías:** JavaScript, Node.js, Express, Gemini, Johnny-Five y Arduino.
+`PHP` · `Laravel 11` · `Blade` · `Vite`
 
-### [Qallariy · Distribución de utilidades](https://github.com/ErikJhonatan/Qallariy-App)
+### 🌱 [Greenvic · Riego con IA e IoT](https://github.com/ErikJhonatan/project-iot)
 
-Aplicación académica que calcula la participación de socios según sus aportes y distribuye la utilidad de una inversión. Separa el cálculo de la interfaz y guarda resultados en el navegador con `localStorage`.
+Consulta de humedad y control de una bomba mediante **comandos en lenguaje natural**. Integra Gemini y Arduino UNO, con un modo de hardware simulado para trabajar sin una placa conectada.
 
-**Tecnologías:** JavaScript, HTML y CSS.
+`JavaScript` · `Node.js` · `Express` · `Gemini` · `Johnny-Five` · `Arduino`
 
-### [MiniMarket POS · Gestión comercial](https://github.com/ErikJhonatan/sys_minimarket_pos)
+### 📊 [Qallariy · Distribución de utilidades](https://github.com/ErikJhonatan/Qallariy-App)
 
-Frontend de punto de venta organizado en módulos de productos, categorías, clientes, ventas y reportes. El repositorio permite revisar la estructura de la interfaz, las rutas y la capa de comunicación con la API.
+Aplicación académica que calcula la participación de socios según sus aportes y distribuye la utilidad de una inversión. **Separa el cálculo de la interfaz** y guarda resultados con `localStorage`.
 
-**Tecnologías:** React, Vite, Tailwind CSS y daisyUI.
+`JavaScript` · `HTML` · `CSS`
 
-### [Aplicación social · React y API REST](https://github.com/ErikJhonatan/mern-social-app)
+### 🛒 [MiniMarket POS](https://github.com/ErikJhonatan/sys_minimarket_pos)
 
-Proyecto con cliente React y backend Express/MongoDB. Incluye registro con imagen de perfil, inicio de sesión y rutas de seguimiento de usuarios. También contiene componentes de feed y código de publicaciones en desarrollo.
+Frontend de punto de venta organizado en módulos de **productos, categorías, clientes, ventas y reportes**.
 
-**Tecnologías:** React, Node.js, Express, MongoDB, Mongoose y Cloudinary.
+`React` · `Vite` · `Tailwind CSS` · `daisyUI`
 
-## Cómo abordo los proyectos
+### 💬 [Aplicación social](https://github.com/ErikJhonatan/mern-social-app)
 
-- Organizo el código por responsabilidades y flujos del producto.
-- Conecto interfaces con APIs y modelos de datos.
-- Exploro integraciones de IA donde hay una acción concreta que resolver.
-- Distingo el código disponible de una demostración o despliegue verificado.
+Cliente React y backend Express/MongoDB con **registro, imagen de perfil, inicio de sesión y seguimiento de usuarios**. El feed y las publicaciones siguen en desarrollo.
 
-Los productos tienen sitios públicos y los proyectos de esta última sección tienen código disponible. Los proyectos están en evolución; cada repositorio documenta su alcance y requisitos.
+`React` · `Express` · `MongoDB` · `Mongoose` · `Cloudinary`
+
+---
+
+**De la interfaz a los datos.** Me interesa construir flujos completos, organizar el código por responsabilidades y aplicar IA a tareas concretas.
+
+📌 Cada repositorio documenta su alcance y requisitos. Los productos y prototipos están en evolución.
