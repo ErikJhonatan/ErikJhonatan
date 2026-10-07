@@ -10,7 +10,7 @@ Soy **ingeniero de sistemas**, egresado en **2025**, tengo **22 años** y soy de
 
 ## 🚀 Productos que estoy construyendo
 
-| 🧭 **[Turistivo](https://turistivo.com)** | 🛍️ **[Walpia](https://walpia.com)** |
+| <a href="https://turistivo.com"><img src="assets/turistivo.svg" alt="Turistivo" height="32"></a> | <a href="https://walpia.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/walpia-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/walpia-light.svg"><img src="assets/walpia-light.svg" alt="Walpia" height="32"></picture></a> |
 | :--- | :--- |
 | **Itinerarios digitales para agencias de viajes.** Presentación de viajes con la marca de la agencia y organización de itinerarios, pasajeros, proveedores y reservas. | **POS y gestión para negocios del Perú.** Un producto en desarrollo para reunir ventas, inventario y gestión del negocio. |
 | Itinerarios compartibles por enlace y una propuesta que conecta venta y operación. | Sitio público con demostraciones de voz e IA con revisión humana. Acceso actual a un entorno de prueba. |
