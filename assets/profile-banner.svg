@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+  <title id="title">Erik Jhonatan — Full Stack Developer</title>
+  <desc id="desc">Productos digitales para negocios y turismo. Web, inteligencia artificial e IoT. Turistivo y Walpia.</desc>
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#223044" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1280" height="360" rx="24" fill="#0D1522"/>
+  <rect x="790" y="1" width="489" height="358" rx="24" fill="url(#grid)"/>
+  <rect x="52" y="54" width="6" height="252" rx="3" fill="#58E0B5"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="82" y="88" fill="#58E0B5" font-size="14" font-weight="700" letter-spacing="3">FULL STACK DEVELOPER</text>
+    <text x="78" y="161" fill="#F4F7FB" font-size="62" font-weight="700" letter-spacing="-2">Erik Jhonatan</text>
+    <text x="82" y="207" fill="#B8C5D7" font-size="23">Productos digitales para negocios y turismo.</text>
+    <text x="82" y="239" fill="#B8C5D7" font-size="23">Web · Inteligencia artificial · IoT</text>
+    <rect x="82" y="274" width="112" height="32" rx="16" fill="#162D2A"/>
+    <text x="138" y="295" fill="#83E8C9" font-size="13" font-weight="700" text-anchor="middle">TURISTIVO</text>
+    <rect x="204" y="274" width="100" height="32" rx="16" fill="#1C2940"/>
+    <text x="254" y="295" fill="#A6C5FF" font-size="13" font-weight="700" text-anchor="middle">WALPIA</text>
+    <rect x="850" y="74" width="354" height="214" rx="16" fill="#111E30" stroke="#33465F"/>
+    <circle cx="875" cy="98" r="4" fill="#58E0B5"/>
+    <circle cx="891" cy="98" r="4" fill="#67839F"/>
+    <circle cx="907" cy="98" r="4" fill="#67839F"/>
+    <path d="M850 117H1204" stroke="#33465F"/>
+    <g font-family="Menlo, Consolas, monospace" font-size="17">
+      <text x="875" y="154" fill="#93BDF9">const developer = {</text>
+      <text x="895" y="188" fill="#C4D1E3">focus: <tspan fill="#83E8C9">'products'</tspan>,</text>
+      <text x="895" y="222" fill="#C4D1E3">learn: <tspan fill="#83E8C9">'by building'</tspan></text>
+      <text x="875" y="256" fill="#93BDF9">};</text>
+    </g>
+  </g>
+</svg>
